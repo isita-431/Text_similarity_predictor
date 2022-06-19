@@ -1,4 +1,4 @@
-# text_similarity_predictor
+# text_similarity_predictor- NLP
 
 Text similarity predictor, where similarity score of two texts will be calculated. The model is deployed by using flask and heroku.
 Spacy library is used for predictions.
